@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<!--
-**JerryZeng20142/JerryZeng20142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+你好呀，我是曾予翮，“某中学生叫姐姐Jerry”，是
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

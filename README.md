@@ -15,5 +15,6 @@ Be interested in UI/UX design (I don’t have enough skills so that’s all), an
 
 Bilibili UP / YouTuber
 
+初级跑者/二次元/玩机发烧友
 
 

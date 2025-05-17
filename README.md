@@ -23,4 +23,4 @@ Beginning Runner / Otaku / Gadget Geek / Xiaomi Fan
 
 Like to create (not to) literarily works and be keen on appreciating various forms of literary works
 
-
+![访问量](https://count.getloli.com/get/@JerryZeng20142.JerryZeng20142?theme=moebooru)

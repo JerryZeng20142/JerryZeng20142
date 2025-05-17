@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there
 
 你好呀~ 我叫曾予翮，“某中学生叫姐姐Jerry”，来自中华人民共和国广西壮族自治区桂林市，高中生，就读于附属于桂林市电子科技大学的桂电中学。
 
@@ -15,6 +15,12 @@ Be interested in UI/UX design (I don’t have enough skills so that’s all), an
 
 Bilibili UP / YouTuber
 
-初级跑者/二次元/玩机发烧友
+初级跑者/二次元/玩机发烧友/米粉
+
+Beginning Runner / Otaku / Gadget Geek / Xiaomi Fan
+
+喜欢创作（不太）文艺（的）作品，热衷于鉴赏各种形式的文学作品
+
+Like to create (not to) literarily works and be keen on appreciating various forms of literary works
 
 

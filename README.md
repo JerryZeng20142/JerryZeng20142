@@ -11,5 +11,9 @@ Hi~ My name is Jerry Zeng, "sisJer", I'm from Guilin City, Guangxi Zhuang Autono
 
 Be interested in UI/UX design (I don’t have enough skills so that’s all), and often watch the animation analysis of operating systems
 
+哔哩哔哩/YouTube 创作者
+
+Bilibili UP / YouTuber
+
 
 

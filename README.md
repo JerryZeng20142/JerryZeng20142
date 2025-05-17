@@ -24,3 +24,9 @@ Beginning Runner / Otaku / Gadget Geek / Xiaomi Fan
 Like to create (not to) literarily works and be keen on appreciating various forms of literary works
 
 ![访问量](https://count.getloli.com/get/@JerryZeng20142.JerryZeng20142?theme=moebooru)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=JerryZeng20142&theme=gruvbox)
+
+https://github-profile-trophy.vercel.app/?username=JerryZeng20142&theme=gruvbox
+
+[![JerryZeng20142's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerryZeng20142&theme=github-compact)](https://github.com/JerryZeng20142)

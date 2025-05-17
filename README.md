@@ -8,6 +8,7 @@ Hi~ My name is Jerry Zeng, "sisJer", I'm from Guilin City, Guangxi Zhuang Autono
 ## 🧠 About Me
 
 对 UI/UX 设计感兴趣（因为能力不够，所以仅此而已了），经常观看操作系统的动效解析
+
 Be interested in UI/UX design (I don’t have enough skills so that’s all), and often watch the animation analysis of operating systems
 
 

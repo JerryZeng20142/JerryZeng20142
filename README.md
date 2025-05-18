@@ -4,6 +4,14 @@
 
 [![JerryZeng20142's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerryZeng20142&theme=github-compact)](https://github.com/JerryZeng20142)
 
+
+<details>
+<summary>简体中文</summary>
+
+## Project Introduction
+This is a sample project to demonstrate how to write a bilingual README.
+
+</details>
 ## 👋 Hi there
 
 你好呀~ 我叫曾予翮，“某中学生叫姐姐Jerry”，来自中华人民共和国广西壮族自治区桂林市，高中生，就读于附属于桂林市电子科技大学的桂电中学。

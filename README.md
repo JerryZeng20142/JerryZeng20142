@@ -62,3 +62,17 @@ Hi~ My name is Jerry Zeng, also known as "sisJer". I'm from Guilin City, Guangxi
 •I’ve become bros with the girl I like (and she knows that), so I’m not single but I don’t have a girlfriend either now 😇<br>
 •Sometimes my old device gets bricked, and I have to quickly re-flash the system, which occasionally causes me to lose contact 🥲<br>
 </details>
+
+## 🛜 Connect With Me
+
+<p>
+  <a href="https://github.com/JerryZeng20142">
+    <img src="https://img.shields.io/github/followers/JerryZeng20142?label=GitHub&color=33354d&style=for-the-badge" />
+  </a>
+  <a href="mailto:jerryzeng20210142@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Outlook (jerryzeng20210142@outlook.com)-blue?&color=c2bafd&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/JerryZeng20142">
+    <img src="https://img.shields.io/badge/QQ-1419865661-blue.svg?logo=qq&color=6980cc&style=for-the-badge" />
+  </a>
+</p>

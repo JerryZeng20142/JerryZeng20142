@@ -47,13 +47,13 @@
 
 ## 👋 Hi there
 
-Hi~ My name is Jerry Zeng, "sisJer", I'm from Guilin City, Guangxi Zhuang Autonomous Region, People's Republic of China, and I'm a high school student, studying at Guidian Middle School that affiliated to Guilin Electronic and Technology University.
+Hi~ My name is Jerry Zeng, also known as "sisJer". I'm from Guilin City, Guangxi Zhuang Autonomous Region, China. I'm a high school student at Guidian Middle School, which is affiliated with Guilin University of Electronic Technology.
 
 ## 🧠 About Me
 
 •🎂Born on February 2, 2009
 
-•📱Be interested in UI/UX design (I don’t have enough skills so that’s all), and often watch the animation analysis of operating systems
+•📱I'm interested in UI/UX design (though my skills are still developing), and I often watch animation analyses of operating systems
 
 •🖥️Bilibili UP / YouTuber
 
@@ -61,7 +61,7 @@ Hi~ My name is Jerry Zeng, "sisJer", I'm from Guilin City, Guangxi Zhuang Autono
 
 •🪄Learning Adobe After Effects
 
-•✒️Like to create (not to) literarily works and be keen on appreciating various forms of literary works
+•✒️ I enjoy creating (not-so) literary works and am passionate about appreciating various forms of literature
 
 •🎮Player of Games by HoYoVerse / Plants vs. Zombies series / Angry Birds series / Command and Conquer series / Dancing Line
 
@@ -72,9 +72,9 @@ Hi~ My name is Jerry Zeng, "sisJer", I'm from Guilin City, Guangxi Zhuang Autono
 
 •I ran 1000m in 3min24sec in the PE Highschool Entrance Examination, which is the fastest time I have ever recorded 👍
 
-•I don’t consider myself a otokonoko in the broad sense, even though they always say so 💦💦💦
+•I don’t consider myself a otokonoko in the broad sense, even though they always say so 💦
 
 •I’ve become bros with the girl I like (and she knows that), so I’m not single but I don’t have a girlfriend either now 😇
 
-•The thing that my pretty old device becomes bricked and I have to quickly re-flash the system which results in my loss of connection sometimes happens 🥲
+•Sometimes my old device gets bricked, and I have to quickly re-flash the system, which occasionally causes me to lose contact 🥲
 </details>

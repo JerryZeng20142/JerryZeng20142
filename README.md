@@ -71,7 +71,7 @@ Hi~ My name is Jerry Zeng, also known as "sisJer". I'm from Guilin City, Guangxi
   <a href="mailto:jerryzeng20210142@outlook.com">
     <img src="https://img.shields.io/badge/Email-Outlook (jerryzeng20210142@outlook.com)-blue?&color=c2bafd&style=for-the-badge" />
   </a>
-<a href="https://wpa.qq.com/msgrd?v=3&uin=1419865661&site=qq&menu=yes">
+<a href="https://qm.qq.com/q/uNWMCZXOrS">
   <img src="https://img.shields.io/badge/QQ-1419865661-blue.svg?logo=qq&color=6980cc&style=for-the-badge" />
 </a>
 </p>

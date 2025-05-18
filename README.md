@@ -27,6 +27,9 @@ Hi~ My name is Jerry Zeng, "sisJer", I'm from Guilin City, Guangxi Zhuang Autono
 
 •Like to create (not to) literarily works and be keen on appreciating various forms of literary works
 
+## 🔧 Skills
+https://img.icons8.com/?size=100&id=117563&format=png&color=000000
+
 ![访问量](https://count.getloli.com/get/@JerryZeng20142.JerryZeng20142?theme=moebooru)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JerryZeng20142&theme=gruvbox)

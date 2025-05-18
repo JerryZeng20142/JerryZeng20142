@@ -19,6 +19,10 @@ Bilibili UP / YouTuber
 
 Beginning Runner / Otaku / Gadget Geek / Xiaomi Fan
 
+正在学习使用AE
+
+Learning Adobe After Effects
+
 喜欢创作（不太）文艺（的）作品，热衷于鉴赏各种形式的文学作品
 
 Like to create (not to) literarily works and be keen on appreciating various forms of literary works
@@ -30,11 +34,3 @@ Like to create (not to) literarily works and be keen on appreciating various for
 ![JerryZeng20142's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&theme=radical)
 
 [![JerryZeng20142's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerryZeng20142&theme=github-compact)](https://github.com/JerryZeng20142)
-
-<details>
-<summary>English</summary>
-
-## Project Introduction
-This is a sample project to demonstrate how to write a bilingual README.
-
-</details>

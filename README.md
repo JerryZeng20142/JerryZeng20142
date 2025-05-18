@@ -21,6 +21,15 @@
 •🪄正在学习使用AE
 •✒️喜欢创作（不太）文艺（的）作品，热衷于鉴赏各种形式的文学作品
 •🎮米家游戏/植物大战僵尸系列/愤怒的小鸟系列/命令与征服系列/跳舞的线玩家
+🎓 海南初中在读 & 初三 & 个人开发者
+🎞️ AE、PR 视频剪辑
+📏 喜欢用 XD 设计原型/画画（？
+🌸 正在开发一个 QML UI 库：Rin-UI
+📄 计划下一代 Class Widgets 开发……
+🧩 正在/打算研究：QML、Vue、Cpp……
+🌍 随意写点自己喜欢的小项目
+🪄 精神状态良好
+😇 蔚蓝档案白子厨 ww
 
 ## 🔧 Skills
 <img src="https://skillicons.dev/icons?i=github"/> <img src="https://img.icons8.com/?size=50&id=117563&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117557&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117561&format=png&color=000000"/> <img src="https://skillicons.dev/icons?i=pr"/> <img src="https://skillicons.dev/icons?i=ps"/> <img src="https://skillicons.dev/icons?i=ae"/> <img src="https://img.icons8.com/?size=50&id=TuXN3JNUBGOT&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=s9k2rXOtb7lB&format=png&color=000000"/>

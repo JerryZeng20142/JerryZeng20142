@@ -27,12 +27,29 @@ Hi~ My name is Jerry Zeng, "sisJer", I'm from Guilin City, Guangxi Zhuang Autono
 
 •Like to create (not to) literarily works and be keen on appreciating various forms of literary works
 
+•米家游戏/植物大战僵尸系列/愤怒的小鸟系列/命令与征服系列/跳舞的线玩家
+
+•Player of Games by HoYoVerse / Plants vs. Zombies series / Angry Birds series / Command and Conquer series / Dancing Line
+
 ## 🔧 Skills
 <img src="https://skillicons.dev/icons?i=github"/> <img src="https://img.icons8.com/?size=50&id=117563&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117557&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117561&format=png&color=000000"/> <img src="https://skillicons.dev/icons?i=pr"/> <img src="https://skillicons.dev/icons?i=ps"/> <img src="https://skillicons.dev/icons?i=ae"/> <img src="https://img.icons8.com/?size=50&id=TuXN3JNUBGOT&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=s9k2rXOtb7lB&format=png&color=000000"/>
 
-![访问量](https://count.getloli.com/get/@JerryZeng20142.JerryZeng20142?theme=moebooru)
+## 🌸 Fun Facts
 
-![trophy](https://github-profile-trophy.vercel.app/?username=JerryZeng20142&theme=gruvbox)
+•体育中考1000米用时3分24秒，是我有记录的1000米跑最快速度👍
+
+• I ran 1000m in 3min24sec in the PE Highschool Entrance Examination, which is the fastest time I have ever recorded 👍
+
+•我不认为自己是广义上的男娘，尽管他们总是这么说💦💦💦
+
+•I don’t consider myself a otokonoko in the broad sense, even though they always say so 💦💦💦
+
+•和喜欢的女孩子处成了哥们（而且人家知道），所以我既不单身也没女朋友😇
+
+•I’ve become bros with the girl I like (and she knows that), so I’m not single but I don’t have a girlfriend either 😇
+
+
+![访问量](https://count.getloli.com/get/@JerryZeng20142.JerryZeng20142?theme=moebooru)
 
 ![JerryZeng20142's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&theme=radical)
 

@@ -8,10 +8,6 @@
 <details>
 <summary>简体中文</summary>
 
-## Project Introduction
-This is a sample project to demonstrate how to write a bilingual README.
-
-</details>
 ## 👋 Hi there
 
 你好呀~ 我叫曾予翮，“某中学生叫姐姐Jerry”，来自中华人民共和国广西壮族自治区桂林市，高中生，就读于附属于桂林市电子科技大学的桂电中学。
@@ -65,3 +61,6 @@ Hi~ My name is Jerry Zeng, "sisJer", I'm from Guilin City, Guangxi Zhuang Autono
 •和喜欢的女孩子处成了哥们（而且人家知道），所以我既不单身也没女朋友😇
 
 •I’ve become bros with the girl I like (and she knows that), so I’m not single but I don’t have a girlfriend either 😇
+
+</details>
+

@@ -1,3 +1,9 @@
+![访问量](https://count.getloli.com/get/@JerryZeng20142.JerryZeng20142?theme=moebooru)
+
+![JerryZeng20142's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&theme=radical)
+
+[![JerryZeng20142's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerryZeng20142&theme=github-compact)](https://github.com/JerryZeng20142)
+
 ## 👋 Hi there
 
 你好呀~ 我叫曾予翮，“某中学生叫姐姐Jerry”，来自中华人民共和国广西壮族自治区桂林市，高中生，就读于附属于桂林市电子科技大学的桂电中学。
@@ -7,33 +13,33 @@ Hi~ My name is Jerry Zeng, "sisJer", I'm from Guilin City, Guangxi Zhuang Autono
 
 ## 🧠 About Me
 
-•2009年2月2日出生
+•🎂2009年2月2日出生
 
-• Born on February 2, 2009
+•🎂Born on February 2, 2009
 
-•对 UI/UX 设计感兴趣（因为能力不够，所以仅此而已了），经常观看操作系统的动效解析
+•📱对 UI/UX 设计感兴趣（因为能力不够，所以仅此而已了），经常观看操作系统的动效解析
 
-•Be interested in UI/UX design (I don’t have enough skills so that’s all), and often watch the animation analysis of operating systems
+•📱Be interested in UI/UX design (I don’t have enough skills so that’s all), and often watch the animation analysis of operating systems
 
-•哔哩哔哩/YouTube 创作者
+•🖥️哔哩哔哩/YouTube 创作者
 
-•Bilibili UP / YouTuber
+•🖥️Bilibili UP / YouTuber
 
-•初级跑者/二次元/玩机发烧友/米粉
+•🧢初级跑者/二次元/玩机发烧友/米粉
 
-•Beginning Runner / Otaku / Gadget Geek / Xiaomi Fan
+•🧢Beginning Runner / Otaku / Gadget Geek / Xiaomi Fan
 
-•正在学习使用AE
+•🪄正在学习使用AE
 
-•Learning Adobe After Effects
+•🪄Learning Adobe After Effects
 
-•喜欢创作（不太）文艺（的）作品，热衷于鉴赏各种形式的文学作品
+•✒️喜欢创作（不太）文艺（的）作品，热衷于鉴赏各种形式的文学作品
 
-•Like to create (not to) literarily works and be keen on appreciating various forms of literary works
+•✒️Like to create (not to) literarily works and be keen on appreciating various forms of literary works
 
-•米家游戏/植物大战僵尸系列/愤怒的小鸟系列/命令与征服系列/跳舞的线玩家
+•🎮米家游戏/植物大战僵尸系列/愤怒的小鸟系列/命令与征服系列/跳舞的线玩家
 
-•Player of Games by HoYoVerse / Plants vs. Zombies series / Angry Birds series / Command and Conquer series / Dancing Line
+•🎮Player of Games by HoYoVerse / Plants vs. Zombies series / Angry Birds series / Command and Conquer series / Dancing Line
 
 ## 🔧 Skills
 <img src="https://skillicons.dev/icons?i=github"/> <img src="https://img.icons8.com/?size=50&id=117563&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117557&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117561&format=png&color=000000"/> <img src="https://skillicons.dev/icons?i=pr"/> <img src="https://skillicons.dev/icons?i=ps"/> <img src="https://skillicons.dev/icons?i=ae"/> <img src="https://img.icons8.com/?size=50&id=TuXN3JNUBGOT&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=s9k2rXOtb7lB&format=png&color=000000"/>
@@ -51,10 +57,3 @@ Hi~ My name is Jerry Zeng, "sisJer", I'm from Guilin City, Guangxi Zhuang Autono
 •和喜欢的女孩子处成了哥们（而且人家知道），所以我既不单身也没女朋友😇
 
 •I’ve become bros with the girl I like (and she knows that), so I’m not single but I don’t have a girlfriend either 😇
-
-
-![访问量](https://count.getloli.com/get/@JerryZeng20142.JerryZeng20142?theme=moebooru)
-
-![JerryZeng20142's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&theme=radical)
-
-[![JerryZeng20142's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerryZeng20142&theme=github-compact)](https://github.com/JerryZeng20142)

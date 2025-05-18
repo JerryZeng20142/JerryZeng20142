@@ -5,8 +5,7 @@
 [![JerryZeng20142's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerryZeng20142&theme=github-compact)](https://github.com/JerryZeng20142)
 
 
-# 点下面选择我自述的语言喵！
-# Click below to select the language of my self-narration nya!
+# 点下面选择我自述的语言喵！<br>Click below to select the language of my self-narration nya!
 <details>
 <summary>简体中文</summary>
 

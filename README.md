@@ -35,9 +35,9 @@
 
 •体育中考1000米用时3分24秒，是我有记录的1000米跑最快速度👍
 
-•我不认为自己是广义上的男娘，尽管他们总是这么说💦
+•我不认为自己是广义上的男娘，虽然别人都是这么说的💦
 
-•和喜欢的女孩子处成了哥们（而且人家知道），所以我既不单身也没女朋友😇
+•和喜欢的女孩子处成了哥们（而且人家知道），所以现在我既不单身也没女朋友😇
 
 •因为自己的老爷设备变砖于是赶紧重刷系统导致失联的事时有发生🥲
 </details>
@@ -74,7 +74,7 @@ Hi~ My name is Jerry Zeng, "sisJer", I'm from Guilin City, Guangxi Zhuang Autono
 
 •I don’t consider myself a otokonoko in the broad sense, even though they always say so 💦💦💦
 
-•I’ve become bros with the girl I like (and she knows that), so I’m not single but I don’t have a girlfriend either 😇
+•I’ve become bros with the girl I like (and she knows that), so I’m not single but I don’t have a girlfriend either now 😇
 
 •The thing that my pretty old device becomes bricked and I have to quickly re-flash the system which results in my loss of connection sometimes happens 🥲
 </details>

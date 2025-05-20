@@ -3,7 +3,7 @@
 [![JerryZeng20142's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerryZeng20142&theme=github-compact)](https://github.com/JerryZeng20142)
 
 
-# 点下面选择我自述的语言喵！<br>Click below to select the language of my self-narration nya!
+# 点下面选择我自述的语言喵！<br>Click below to select the language of my self-introduction nya!
 <details>
 <summary>简体中文</summary>
 
@@ -54,7 +54,7 @@ Hi~ My name is Jerry Zeng, aka "sisJer" on social media. I'm from Guilin City, G
 
 •I ran 1000m in 3min24sec in the PE Highschool Entrance Examination, which is the fastest time I have ever recorded 👍<br>
 •I don’t consider myself an otokonoko in the broad sense, even though they always say so 💦<br>
-•I’ve become bros with the girl I like (and she knows that), so I’m not single but I don’t have a girlfriend either now 😇<br>
+•I’ve become bros with the girl I like (and she knows I like her), so I’m not exactly single but I don’t have a girlfriend either now 😇<br>
 •Sometimes my old device gets bricked, and I have to quickly re-flash the system, which occasionally causes me to lose contact 🥲<br>
 
 ## 🏆 My GitHub Stats

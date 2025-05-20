@@ -32,6 +32,10 @@
 •我不认为自己是广义上的男娘，虽然别人都是这么说的💦<br>
 •和喜欢的女孩子处成了哥们（而且人家知道），所以现在我既不单身也没女朋友😇<br>
 •因为自己的老爷设备变砖于是赶紧重刷系统导致失联的事时有发生🥲<br>
+
+## 🏆 My GitHub Stats
+![JerryZeng20142's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZeng20142&locale=zh-CN&show_icons=true&theme=radical)
+
 </details>
 
 <details>
@@ -60,6 +64,9 @@ Hi~ My name is Jerry Zeng, also known as "sisJer". I'm from Guilin City, Guangxi
 •I don’t consider myself a otokonoko in the broad sense, even though they always say so 💦<br>
 •I’ve become bros with the girl I like (and she knows that), so I’m not single but I don’t have a girlfriend either now 😇<br>
 •Sometimes my old device gets bricked, and I have to quickly re-flash the system, which occasionally causes me to lose contact 🥲<br>
+
+## 🏆 My GitHub Stats
+![JerryZeng20142's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&theme=radical)
 </details>
 
 ## 🛜 Connect With Me

@@ -6,6 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=Hi;I'm+Jerry+Zeng;aka+"sisJer"+on+social+media;A+boy;A+Chinese+high+school+student;Guiliner;Beginner+Runner+/+Otaku+/+Gadget Geek+/+Xiaomi Fan)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=I'm+LaoShui;A+Chinese+high+school+student)](https://git.io/typing-svg)
 # 点下面选择我自述的语言喵！<br>Click below to select the language of my self-introduction nya!
 <details>
 <summary>简体中文</summary>

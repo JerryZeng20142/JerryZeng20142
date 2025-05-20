@@ -2,8 +2,8 @@
 
 [![JerryZeng20142's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerryZeng20142&theme=github-compact)](https://github.com/JerryZeng20142)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=你好;我叫曾予翮;社交媒体;A+boy;A+Chinese+high+school+student;Guiliner;Beginner+Runner+/+Otaku+/+Gadget Geek+/+Xiaomi Fan)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=Hi;I'm+Jerry+Zeng;aka+"sisJer"+on+social+media;A+boy;A+Chinese+high+school+student;Guiliner;Beginner+Runner+/+Otaku+/+Gadget Geek+/+Xiaomi Fan)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=你好;我叫曾予翮;社交媒体;A+boy;A+Chinese+high+school+student;Guiliner;Beginner+Runner+/+Otaku+/+Gadget Geek+/+Xiaomi Fan)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&random=false&width=435&lines=Hi;I'm+Jerry+Zeng;aka+"sisJer"+on+social+media;A+boy;A+Chinese+high+school+student;Guiliner;Beginner+Runner+/+Otaku+/+Gadget Geek+/+Xiaomi Fan)](https://git.io/typing-svg) <br>
 
 # 点下面选择我自述的语言喵！<br>Click below to select the language of my self-introduction nya!
 <details>

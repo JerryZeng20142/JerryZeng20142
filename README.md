@@ -34,7 +34,7 @@
 •因为自己的老爷设备变砖于是赶紧重刷系统导致失联的事时有发生🥲<br>
 
 ## 🏆 My GitHub Stats
-![JerryZeng20142's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZeng20142&locale=zh-CN&show_icons=true&theme=radical)
+![JerryZeng20142's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&theme=radical&locale=zh-CN)
 
 </details>
 

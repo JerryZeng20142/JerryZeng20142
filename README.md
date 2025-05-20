@@ -9,7 +9,7 @@
 
 ## 👋 Hi there
 
-你好呀~ 我叫曾予翮，“某中学生叫姐姐Jerry”，来自中华人民共和国广西壮族自治区桂林市，高中生，就读于附属于桂林市电子科技大学的桂电中学。
+你好呀~ 我叫曾予翮，在社媒上常用“某中学生叫姐姐Jerry”，来自中华人民共和国广西壮族自治区桂林市，高中生，就读于附属于桂林市电子科技大学的桂电中学。
 
 ## 🧠 About Me
 
@@ -38,7 +38,7 @@
 
 ## 👋 Hi there
 
-Hi~ My name is Jerry Zeng, also known as "sisJer". I'm from Guilin City, Guangxi Zhuang Autonomous Region, China. I'm a high school student at Guidian Middle School, which is affiliated with Guilin University of Electronic Technology.
+Hi~ My name is Jerry Zeng, aka "sisJer" on social media. I'm from Guilin City, Guangxi Zhuang Autonomous Region, China. I'm a high school student at Guidian Middle School, which is affiliated with Guilin University of Electronic Technology.
 
 ## 🧠 About Me
 
@@ -53,7 +53,7 @@ Hi~ My name is Jerry Zeng, also known as "sisJer". I'm from Guilin City, Guangxi
 ## 🌸 Fun Facts
 
 •I ran 1000m in 3min24sec in the PE Highschool Entrance Examination, which is the fastest time I have ever recorded 👍<br>
-•I don’t consider myself a otokonoko in the broad sense, even though they always say so 💦<br>
+•I don’t consider myself an otokonoko in the broad sense, even though they always say so 💦<br>
 •I’ve become bros with the girl I like (and she knows that), so I’m not single but I don’t have a girlfriend either now 😇<br>
 •Sometimes my old device gets bricked, and I have to quickly re-flash the system, which occasionally causes me to lose contact 🥲<br>
 

@@ -21,9 +21,6 @@
 •✒️喜欢创作（不太）文艺（的）作品，热衷于鉴赏各种形式的文学作品<br>
 •🎮米家游戏/植物大战僵尸系列/愤怒的小鸟系列/命令与征服系列/跳舞的线玩家<br>
 
-## 🔧 Skills
-<img src="https://skillicons.dev/icons?i=github"/> <img src="https://img.icons8.com/?size=50&id=117563&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117557&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117561&format=png&color=000000"/> <img src="https://skillicons.dev/icons?i=pr"/> <img src="https://skillicons.dev/icons?i=ps"/> <img src="https://skillicons.dev/icons?i=ae"/> <img src="https://img.icons8.com/?size=50&id=TuXN3JNUBGOT&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=s9k2rXOtb7lB&format=png&color=000000"/>
-
 ## 🌸 Fun Facts
 
 •体育中考1000米用时3分24秒，是我有记录的1000米跑最快速度👍<br>
@@ -52,9 +49,6 @@ Hi~ My name is Jerry Zeng, also known as "sisJer". I'm from Guilin City, Guangxi
 •🪄Learning Adobe After Effects<br>
 •✒️ I enjoy creating (not-so) literary works and am passionate about appreciating various forms of literature<br>
 •🎮Player of Games by HoYoVerse / Plants vs. Zombies series / Angry Birds series / Command and Conquer series / Dancing Line<br>
-
-## 🔧 Skills
-<img src="https://skillicons.dev/icons?i=github"/> <img src="https://img.icons8.com/?size=50&id=117563&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117557&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117561&format=png&color=000000"/> <img src="https://skillicons.dev/icons?i=pr"/> <img src="https://skillicons.dev/icons?i=ps"/> <img src="https://skillicons.dev/icons?i=ae"/> <img src="https://img.icons8.com/?size=50&id=TuXN3JNUBGOT&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=s9k2rXOtb7lB&format=png&color=000000"/>
 
 ## 🌸 Fun Facts
 

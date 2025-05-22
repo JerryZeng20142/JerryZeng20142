@@ -6,6 +6,7 @@
 ![Typing SVG 中文](https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=25&duration=3000&pause=1000&color=FF69B4&cursorColor=DA0078&random=false&width=435&lines=你好呀;我叫曾予翮;社交媒体上的“某中学生叫姐姐Jerry”;是男孩子哦;中国高中生;桂林人;初级跑者;二次元;搞机爱好者;米粉)<br>
 ![Typing SVG EN](https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=3000&pause=1000&color=FF69B4&cursorColor=DA0078&random=false&width=435&lines=Hello;I'm+Jerry+Zeng;aka+%22sisJer%22+on+social+media;A+boy;A+Chinese+high+school+student;Guiliner;Beginner+Runner;Otaku;Gadget+Geek;Xiaomi+Fan)
 
+
 # 点下面选择我自述的语言喵！<br>Click below to select the language of my self-introduction nya!
 <details>
 <summary>简体中文</summary>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/封图.png" alt="封图" width="500"/>
+  <img src="img/coverimg.png" alt="封图" width="500"/>
 </p>
 
 ![访问量](https://count.getloli.com/get/@JerryZeng20142.JerryZeng20142?theme=moebooru)

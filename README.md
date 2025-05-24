@@ -83,10 +83,13 @@ Hi~ My name is Jerry Zeng, aka "sisJer" on social media. I'm from Guilin City, G
   <a href="https://github.com/JerryZeng20142">
     <img src="https://img.shields.io/github/followers/JerryZeng20142?label=GitHub&color=33354d&style=for-the-badge" />
   </a><br>
-  <a href="mailto:jerryzeng20210142@outlook.com">
+<a href="mailto:jerryzeng20210142@outlook.com">
     <img src="https://img.shields.io/badge/Email-Outlook (jerryzeng20210142@outlook.com)-blue?&color=c2bafd&style=for-the-badge" />
   </a><br>
 <a href="https://qm.qq.com/q/uNWMCZXOrS">
+  <img src="https://img.shields.io/badge/QQ-1419865661-blue.svg?logo=qq&color=6980cc&style=for-the-badge" />
+</a><br>
+<a href="https://discord.com/invite/aNkNQ4hT">
   <img src="https://img.shields.io/badge/QQ-1419865661-blue.svg?logo=qq&color=6980cc&style=for-the-badge" />
 </a><br>
 </p>

@@ -92,4 +92,7 @@ Hi~ My name is Jerry Zeng, aka "sisJer" on social media. I'm from Guilin City, G
 <a href="https://discord.com/invite/aNkNQ4hT">
   <img src="https://img.shields.io/badge/Discord-jerryzeng20210142-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
 </a><br>
+<a href="https://te.me/zengyuhe">
+  <img src="https://img.shields.io/badge/Telegram-zengyuhe-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" />
+</a><br>
 </p>

@@ -73,7 +73,7 @@ Hi~ My name is Jerry Zeng, aka "sisJer" on social media. I'm from Guilin City, G
 ![JerryZeng20142's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&theme=radical)
 </details>
 
-## <br>
+——————————————————————
 ## 🔧 Skills
 <img src="https://skillicons.dev/icons?i=github"/> <img src="https://img.icons8.com/?size=50&id=117563&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117561&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117557&format=png&color=000000"/> <img src="https://skillicons.dev/icons?i=pr"/> <img src="https://skillicons.dev/icons?i=ps"/> <img src="https://skillicons.dev/icons?i=ae"/> <img src="https://img.icons8.com/?size=50&id=TuXN3JNUBGOT&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=s9k2rXOtb7lB&format=png&color=000000"/>
 
@@ -90,6 +90,6 @@ Hi~ My name is Jerry Zeng, aka "sisJer" on social media. I'm from Guilin City, G
   <img src="https://img.shields.io/badge/QQ-1419865661-blue.svg?logo=qq&color=6980cc&style=for-the-badge" />
 </a><br>
 <a href="https://discord.com/invite/aNkNQ4hT">
-  <img src="https://img.shields.io/badge/Discord-jerryzeng20210142?logo=discord&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Discord-jerryzeng20210142-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
 </a><br>
 </p>

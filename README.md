@@ -54,13 +54,13 @@ Hi~ My name is Jerry Zeng, aka "sisJer" on social media. I'm from Guilin City, G
 
 ## 🧠 About Me
 
-•🎂Born on February 2, 2009<br>
-•📱I'm interested in UI/UX design (though my skills are still developing), and often watch analysis videos on operating system animations<br>
-•🖥️Bilibili UP / YouTuber<br>
-•🧢Beginner Runner / Otaku / Gadget Geek / Xiaomi Fan<br>
-•🪄Learning Adobe After Effects<br>
+•🎂 Born on February 2, 2009<br>
+•📱 I'm interested in UI/UX design (though my skills are still developing), and often watch analysis videos on operating system animations<br>
+•🖥️ Bilibili UP / YouTuber<br>
+•🧢 Beginner Runner / Otaku / Gadget Geek / Xiaomi Fan<br>
+•🪄 Learning Adobe After Effects<br>
 •✒️ I enjoy creating (not-so) literary works and am passionate about appreciating various forms of literature<br>
-•🎮I play games by HoYoVerse / Plants vs. Zombies series / Angry Birds series / Command and Conquer series / Dancing Line<br>
+•🎮 I play games by HoYoVerse / Plants vs. Zombies series / Angry Birds series / Command and Conquer series / Dancing Line<br>
 
 ## 🌸 Fun Facts
 

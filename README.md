@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/封图.png" alt="封图" width="500"/>
+</p>
+
 ![访问量](https://count.getloli.com/get/@JerryZeng20142.JerryZeng20142?theme=moebooru)
 
 [![JerryZeng20142's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerryZeng20142&theme=github-compact)](https://github.com/JerryZeng20142)

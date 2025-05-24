@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/coverimg.jpg" alt="封图" width="1000"/>
+  <img src="img/coverimg.jpg" alt="封图" width="850"/>
 </p>
 <h2 align="center">漫长轨道多像胶片 一格一格就拼成了好多天<br>
 车轮串起不同情节 驶向起点<br>——《时光盲盒》</h2>

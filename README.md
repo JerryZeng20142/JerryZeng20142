@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="img/coverimg.jpg" alt="封图" width="500"/>
+  <img src="img/coverimg.jpg" alt="封图" width="1000"/>
 </p>
-<p align="center">漫长轨道多像胶片<br>一格一格就拼成了好多天<br>
-车轮串起不同情节<br>驶向起点<br>——《时光盲盒》</p>
+<h2 align="center">漫长轨道多像胶片 一格一格就拼成了好多天<br>
+车轮串起不同情节 驶向起点<br>——《时光盲盒》</h2>
 
-![访问量](https://count.getloli.com/get/@JerryZeng20142.JerryZeng20142?theme=moebooru)
+<p align="center">
+  <img src="https://moe-counter.lxchapu.com/JerryZeng20142?theme=moebooru" alt="visitor_counter" />
+</p>
 
 [![JerryZeng20142's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerryZeng20142&theme=github-compact)](https://github.com/JerryZeng20142)
 

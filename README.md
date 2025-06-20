@@ -68,7 +68,7 @@ Hi~ My name is Jerry Zeng, aka "sisJer" on social media. I'm from Guilin City, G
 •I ran 1000m in 3min24sec in the PE Highschool Entrance Examination, which is the fastest time I have ever recorded 👍<br>
 •I don’t consider myself an otokonoko in the broad sense, even though they always say so 💦<br>
 •I’ve become bros with the girl I like (and she knows I like her), so I’m not exactly single but I don’t have a girlfriend either now 😇<br>
-•Sometimes my old device gets bricked, and I have to quickly re-flash the system, which occasionally causes me to lose contact 🥲<br>
+•Sometimes my old device gets bricked, and I have to quickly reflash its system, which occasionally causes me to lose contact 🥲<br>
 
 ## 🏆 My GitHub Stats
 ![JerryZeng20142's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&theme=radical)

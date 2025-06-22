@@ -30,7 +30,7 @@
 •📱对 UI/UX 设计感兴趣（因为能力不够，所以仅此而已了），经常观看操作系统的动效解析<br>
 •🖥️哔哩哔哩/YouTube 创作者<br>
 •🧢初级跑者/二次元/玩机发烧友/米粉<br>
-•🪄正在学习使用AE<br>
+•🪄正在学习AE和Python<br>
 •✒️喜欢创作（不太）文艺（的）作品，热衷于鉴赏各种形式的文学作品<br>
 •🎮米家游戏/植物大战僵尸系列/愤怒的小鸟系列/命令与征服系列/跳舞的线玩家<br>
 
@@ -59,7 +59,7 @@ Hi~ My name is Jerry Zeng, aka "sisJer" on social media. I'm from Guilin City, G
 •📱 I'm interested in UI/UX design (though my skills are still developing), and often watch analysis videos on operating system animations<br>
 •🖥️ Bilibili UP / YouTuber<br>
 •🧢 Beginner Runner / Otaku / Gadget Geek / Xiaomi Fan<br>
-•🪄 Learning Adobe After Effects<br>
+•🪄 Learning Adobe After Effects and Python<br>
 •✒️ I enjoy creating (not-so) literary works and am passionate about appreciating various forms of literature<br>
 •🎮 I play games by HoYoVerse / Plants vs. Zombies series / Angry Birds series / Command and Conquer series / Dancing Line<br>
 

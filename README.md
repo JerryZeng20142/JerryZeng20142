@@ -16,7 +16,7 @@
 
 ——————————————
 
-# 点下面选择我自述的语言喵！<br>Click below to select the language of my self-introduction nya!
+### 点下面选择我自述的语言喵！<br>Click below to select the language of my self-introduction nya!
 <details>
 <summary>简体中文</summary>
 

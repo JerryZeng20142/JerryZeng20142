@@ -42,7 +42,8 @@
 •因为自己的老爷设备变砖于是赶紧重刷系统导致失联的事时有发生🥲<br>
 
 ## 🏆 My GitHub Stats
-![JerryZeng20142's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&theme=radical&locale=cn)
+<img src="https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&locale=cn&theme=tokyonight&hide_border=true&card_width=450&cache_bust=1" alt="GitHub 统计数据" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryZeng20142&layout=compact&locale=cn&theme=tokyonight&hide_border=true&card_width=450&cache_bust=1" alt="最常用语言统计" height="180"/>
 
 </details>
 
@@ -65,13 +66,14 @@ Hi~ My name is Jerry Zeng, aka "sisJer" on social media. I'm from Guilin City, G
 
 ## 🌸 Fun Facts
 
-•I ran 1000m in 3min24sec in the PE Highschool Entrance Examination, which is the fastest time I have ever recorded 👍<br>
+•I ran 1,000m in 3min24sec in the PE Highschool Entrance Examination, which is the fastest time I have ever recorded 👍<br>
 •I don’t consider myself an otokonoko in the broad sense, even though they always say so 💦<br>
 •I’ve become bros with the girl I like (and she knows I like her), so I’m not exactly single but I don’t have a girlfriend either now 😇<br>
 •Sometimes my old device gets bricked, and I have to quickly reflash its system, which occasionally causes me to lose contact 🥲<br>
 
 ## 🏆 My GitHub Stats
-![JerryZeng20142's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&theme=tokyonight&hide_border=true&card_width=450&cache_bust=1" alt="GitHub 统计数据" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryZeng20142&layout=compact&theme=tokyonight&hide_border=true&card_width=450&cache_bust=1" alt="最常用语言统计" height="180"/>
 </details>
 
 ——————————————

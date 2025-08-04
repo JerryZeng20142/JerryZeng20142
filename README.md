@@ -28,6 +28,7 @@
 
 •🎂2009年2月2日出生<br>
 •📱对 UI/UX 设计感兴趣（因为能力不够，所以仅此而已了），经常观看操作系统的动效解析<br>
+•📄文档型的个人开发者，项目文档仙人，经常翻译文档，给文档抠字眼（因为代码太烂，目前只适合贡献文档）<br>
 •🖥️哔哩哔哩/YouTube 创作者<br>
 •🧢初级跑者/二次元/玩机发烧友/米粉<br>
 •🪄正在学习AE和Python<br>
@@ -58,6 +59,7 @@ Hi~ My name is Jerry Zeng, aka "sisJer" on social media. I'm from Guilin City, G
 
 •🎂 Born on February 2, 2009<br>
 •📱 I'm interested in UI/UX design (though my skills are still developing), and often watch analysis videos on operating system animations<br>
+•📄I'm a document-oriented personal developer. I often translate docs and nitpick words in it (because my code is so bad, I am currently only suitable for contributing documents)
 •🖥️ Bilibili UP / YouTuber<br>
 •🧢 Beginner Runner / Otaku / Gadget Geek / Xiaomi Fan<br>
 •🪄 Learning Adobe After Effects and Python<br>

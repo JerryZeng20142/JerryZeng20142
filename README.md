@@ -59,7 +59,7 @@ Hi~ My name is Jerry Zeng, aka "sisJer" on social media. I'm from Guilin City, G
 
 •🎂 Born on February 2, 2009<br>
 •📱 I'm interested in UI/UX design (though my skills are still developing), and often watch analysis videos on operating system animations<br>
-•📄I'm a document-oriented personal developer. I often translate docs and nitpick words in it (because my code is so bad, I am currently only suitable for contributing documents)
+•📄I'm a document-oriented personal developer. I often translate docs and nitpick words in it (because my code is so bad, I am currently only suitable for contributing documents)<br>
 •🖥️ Bilibili UP / YouTuber<br>
 •🧢 Beginner Runner / Otaku / Gadget Geek / Xiaomi Fan<br>
 •🪄 Learning Adobe After Effects and Python<br>

@@ -11,8 +11,7 @@
 [![JerryZeng20142's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerryZeng20142&theme=github-compact)](https://github.com/JerryZeng20142)
 
 
-![Typing SVG 中文](https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=25&duration=3000&pause=1000&color=FF69B4&cursorColor=DA0078&random=false&width=435&lines=你好呀;我叫曾予翮;社交媒体上的“某中学生叫姐姐Jerry”;是男孩子哦;中国高中生;桂林人;初级跑者;二次元;搞机爱好者;米粉)<br>
-![Typing SVG EN](https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=3000&pause=1000&color=FF69B4&cursorColor=DA0078&random=false&width=435&lines=Hello;I'm+Jerry+Zeng;aka+%22sisJer%22+on+social+media;A+boy;A+Chinese+high+school+student;Guiliner;Beginner+Runner;Otaku;Gadget+Geek;Xiaomi+Fan)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=25&duration=3000&pause=1000&color=FF69B4&cursorColor=DA0078&random=false&width=435&lines=你好呀;我是“某中学生叫姐姐Jerry”;一个“没想读了”的高中生;Hey ya~;I'm+%22sisJer%22+on+social+media;A+Chinese+high+school+student+who+thought+being+at+school+is+a+waste+of+time)<br>
 
 ——————————————
 
@@ -22,24 +21,25 @@
 
 ## 👋 Hi there
 
-你好呀~ 我叫曾予翮，在社媒上常用“某中学生叫姐姐Jerry”，来自中华人民共和国广西壮族自治区桂林市，高中生，就读于附属于桂林市电子科技大学的桂电中学。
+你好呀~ 我是各种公开页面上的“sisJer”和“某中学生叫姐姐Jerry”，来自广西桂林，事高三牲（悲）
 
 ## 🧠 About Me
 
 •🎂2009年2月2日出生<br>
+•🫶虽说处在一个＂壮族自治区＂，但我是瑶族人哦<br>
 •📱对 UI/UX 设计感兴趣（因为能力不够，所以仅此而已了），经常观看操作系统的动效解析<br>
-•📄文档型的个人开发者，项目文档仙人，经常翻译文档，给文档抠字眼（因为代码太烂，目前只适合贡献文档）<br>
-•🖥️哔哩哔哩/YouTube 创作者<br>
-•🧢初级跑者/二次元/玩机发烧友/米粉<br>
-•🪄正在学习AE和Python<br>
+•📄文档型的个人开发者（因为代码太烂，目前只适合贡献文档）<br>
+•🖥️哔哩哔哩UP主<br>
+•🧢音游痴/二次元/玩机发烧友/米粉<br>
+•🪄正在学习AE和制作复杂一些的 Magisk/KernelSU 模块（要补的技术债真不少啊）<br>
 •✒️喜欢创作（不太）文艺（的）作品，热衷于鉴赏各种形式的文学作品<br>
 
 ## 🌸 Fun Facts
 
 •体育中考1000米用时3分24秒，是我有记录的1000米跑最快速度👍<br>
-•我不认为自己是广义上的男娘，虽然别人都是这么说的💦<br>
-•和喜欢的女孩子处成了哥们（而且人家知道），所以现在我既不单身也没女朋友😇<br>
-•因为自己的老爷设备变砖于是赶紧重刷系统导致失联的事时有发生🥲<br>
+•是 MtX ，但是性别认同还是偏向于自己的生理性别，虽然不论怎么解释都是一些人嘴里的“卖身子的”💦<br>
+•和喜欢的女孩子处成了伪百😇<br>
+•因为自己的老爷设备变砖导致失联的事时有发生，因为我救砖去了🥲<br>
 
 ## 🏆 My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&locale=cn&theme=tokyonight&hide_border=true&card_width=450&cache_bust=1" alt="GitHub 统计数据" height="180"/>
@@ -52,24 +52,25 @@
 
 ## 👋 Hi there
 
-Hi~ My name is Jerry Zeng, aka "sisJer" on social media. I'm from Guilin City, Guangxi Zhuang Autonomous Region, China. I'm a high school student at Guidian Middle School, which is affiliated with Guilin University of Electronic Technology.
+Hi~ I am "sisJer" and "某中学生叫姐姐Jerry" on social media, from Guilin, Guangxi, China, a miserable Grade 12 student.
 
 ## 🧠 About Me
 
 •🎂 Born on February 2, 2009<br>
-•📱 I'm interested in UI/UX design (though my skills are still developing), and often watch analysis videos on operating system animations<br>
-•📄I'm a document-oriented personal developer. I often translate docs and nitpick words in it (because my code is so bad, I am currently only suitable for contributing documents)<br>
-•🖥️ Bilibili UP / YouTuber<br>
-•🧢 Beginner Runner / Otaku / Gadget Geek / Xiaomi Fan<br>
-•🪄 Learning Adobe After Effects and Python<br>
-•✒️ I enjoy creating (not-so) literary works and am passionate about appreciating various forms of literature<br>
+•🫶 Though I live in a "Zhuang Autonomous Region", I'm actually Yao ethnic<br>
+•📱 Interested in UI/UX design (skills still developing, so that's about it), often watch motion-design breakdowns of operating systems<br>
+•📄 Docs-oriented personal developer (my code is pretty bad, so contributing docs is all I can do for now)<br>
+•🖥️ A Bilibili content creator (UP host)<br>
+•🧢 Rhythm game addict / Otaku / Gadget geek / Xiaomi fan<br>
+•🪄 Learning Adobe After Effects and building more complex Magisk/KernelSU modules (there is much to learn)<br>
+•✒️ Enjoy creating (not-so) literary works, passionate about appreciating literature in all its forms<br>
 
 ## 🌸 Fun Facts
 
-•I ran 1,000m in 3min24sec in the PE Highschool Entrance Examination, which is the fastest time I have ever recorded 👍<br>
-•I don’t consider myself an otokonoko in the broad sense, even though they always say so 💦<br>
-•I’ve become bros with the girl I like (and she knows I like her), so I’m not exactly single but I don’t have a girlfriend either now 😇<br>
-•Sometimes my old device gets bricked, and I have to quickly reflash its system, which occasionally causes me to lose contact 🥲<br>
+•I ran 1,000 m in 3:24 in my high school entrance PE exam — my fastest recorded time 👍<br>
+•I'm MtX, but my gender identity still leans toward my assigned birth sex, just some people still think about "sex" to this 💦<br>
+•Ended up in a "pseudo-yuri" (伪百) situation with the girl I like 😇<br>
+•Sometimes my rubbish device gets bricked, and I have to reflash its system, which occasionally causes me to lose contact 🥲<br>
 
 ## 🏆 My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=JerryZeng20142&show_icons=true&theme=tokyonight&hide_border=true&card_width=450&cache_bust=1" alt="GitHub 统计数据" height="180"/>

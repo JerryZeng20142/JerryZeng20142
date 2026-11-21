@@ -69,7 +69,7 @@ Hi~ I am "sisJer" and "某中学生叫姐姐Jerry" on social media, from Guilin,
 
 •I ran 1,000 m in 3:24 in my high school entrance PE exam — my fastest recorded time 👍<br>
 •I'm MtX, but my gender identity still leans toward my assigned birth sex, just some people still think about "sex" to this 💦<br>
-•Ended up in a "pseudo-yuri" (伪百) situation with the girl I like 😇<br>
+•Ended up in a "pseudo-yuri" situation with the girl I like 😇<br>
 •Sometimes my rubbish device gets bricked, and I have to reflash its system, which occasionally causes me to lose contact 🥲<br>
 
 ## 🏆 My GitHub Stats

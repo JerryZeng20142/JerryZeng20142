@@ -11,7 +11,7 @@
 [![JerryZeng20142's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JerryZeng20142&theme=github-compact)](https://github.com/JerryZeng20142)
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=25&duration=3000&pause=1000&color=FF69B4&cursorColor=DA0078&random=false&width=435&lines=你好呀;我是“某中学生叫姐姐Jerry”;一个“没想读了”的高中生;Hey ya~;I'm+%22sisJer%22+on+social+media;A+Chinese+high+school+student+who+thought+being+at+school+is+a+waste+of+time)<br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=25&duration=3000&pause=1000&color=FF69B4&cursorColor=DA0078&random=false&width=435&lines=%E4%BD%A0%E5%A5%BD%E5%91%80;%E6%88%91%E6%98%AF%E2%80%9C%E6%9F%90%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%8F%AB%E5%A7%90%E5%A7%90Jerry%E2%80%9D;%E4%B8%80%E4%B8%AA%E2%80%9C%E6%B2%A1%E6%83%B3%E8%AF%BB%E4%BA%86%E2%80%9D%E7%9A%84%E9%AB%98%E4%B8%AD%E7%94%9F;Hey%20ya~;I%27m%20%22sisJer%22%20on%20social%20media;A%20Chinese%20high%20school%20student%20who%20thought%20being%20at%20school%20is%20a%20waste%20of%20time)<br>
 
 ——————————————
 

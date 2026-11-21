@@ -78,8 +78,6 @@ Hi~ I am "sisJer" and "某中学生叫姐姐Jerry" on social media, from Guilin,
 </details>
 
 ——————————————
-## 🔧 Skills
-<img src="https://skillicons.dev/icons?i=github"/> <img src="https://img.icons8.com/?size=50&id=117563&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117561&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=117557&format=png&color=000000"/> <img src="https://skillicons.dev/icons?i=pr"/> <img src="https://skillicons.dev/icons?i=ps"/> <img src="https://skillicons.dev/icons?i=ae"/> <img src="https://img.icons8.com/?size=50&id=TuXN3JNUBGOT&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=s9k2rXOtb7lB&format=png&color=000000"/>
 
 ## 🛜 Connect With Me
 
